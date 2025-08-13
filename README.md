@@ -1,2 +1,2 @@
 # Kopasz-Barackok
-Ez a Kopasz Batackok projektje!
+Ez a Kopasz Barackok projektje!
